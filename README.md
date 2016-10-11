@@ -1,4 +1,4 @@
-# HellowMetal
+# HelloMetal
 プロジェクト名間違えました。
 本来はHelloMetalとしたかったのです。
 
